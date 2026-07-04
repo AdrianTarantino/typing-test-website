@@ -1,6 +1,9 @@
 # typing-test-website
 Full-stack app for typing test. Inspired by MonkeyType.
 
+## Tutorial
+Continue at [this section](https://nextjs.org/docs/app/getting-started/linking-and-navigating).
+
 ## Requirements
 - Basics
     - Random words appear on screen.
